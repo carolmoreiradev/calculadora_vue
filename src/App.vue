@@ -5,8 +5,8 @@
 
 // Criando as variáveis
 
-  const n1 = ref('');
-  const n2 = ref('');
+  const num1 = ref('');
+  const num2 = ref('');
   const operacao = ref('escolha');
 
 
